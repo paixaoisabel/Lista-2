@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer 8", "exer 8.csproj", "{804F8F1D-40CD-4AA7-BBD9-B9137DFA6B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804F8F1D-40CD-4AA7-BBD9-B9137DFA6B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804F8F1D-40CD-4AA7-BBD9-B9137DFA6B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804F8F1D-40CD-4AA7-BBD9-B9137DFA6B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804F8F1D-40CD-4AA7-BBD9-B9137DFA6B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17506976-E146-4C3A-9E82-2C168A20954F}
+	EndGlobalSection
+EndGlobal
