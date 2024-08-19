@@ -1,0 +1,7 @@
+D:\Codigo julia\Decisao\exer 11\bin\Debug\exer 11.exe.config
+D:\Codigo julia\Decisao\exer 11\bin\Debug\exer 11.exe
+D:\Codigo julia\Decisao\exer 11\bin\Debug\exer 11.pdb
+D:\Codigo julia\Decisao\exer 11\obj\Debug\exer 11.csproj.AssemblyReference.cache
+D:\Codigo julia\Decisao\exer 11\obj\Debug\exer 11.csproj.CoreCompileInputs.cache
+D:\Codigo julia\Decisao\exer 11\obj\Debug\exer 11.exe
+D:\Codigo julia\Decisao\exer 11\obj\Debug\exer 11.pdb
